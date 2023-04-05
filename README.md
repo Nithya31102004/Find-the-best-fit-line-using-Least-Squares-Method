@@ -46,7 +46,8 @@ plt.show()
 ```
 
 ## Output:
-![ml](https://user-images.githubusercontent.com/119830477/227835763-cb2fc9ed-facf-4c04-9c3b-caf7683c338c.png)
+![ml]![Screenshot 2023-04-05 144926](https://user-images.githubusercontent.com/119830477/230038663-b771fd2b-2b5c-4b76-b8bd-a0b8c34d8464.png)
+
 
 
 ## Result:
